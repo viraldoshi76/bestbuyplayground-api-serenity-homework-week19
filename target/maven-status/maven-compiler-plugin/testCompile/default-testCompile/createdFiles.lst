@@ -1,0 +1,9 @@
+com\bestbuyapiplayground\model\bestbuyinfo\productsinfo\ProductsCRUDTestWithSteps.class
+com\bestbuyapiplayground\model\testbase\TestBase.class
+com\bestbuyapiplayground\model\bestbuyinfo\servicesinfo\ServicesCRUDTestWithSteps.class
+com\bestbuyapiplayground\model\bestbuyinfo\categoriesinfo\FirstSerenityTest.class
+com\bestbuyapiplayground\model\bestbuyinfo\productsinfo\FirstSerenityTest.class
+com\bestbuyapiplayground\model\bestbuyinfo\servicesinfo\FirstSerenityTest.class
+com\bestbuyapiplayground\model\bestbuyinfo\storesinfo\FirstSerenityTest.class
+com\bestbuyapiplayground\model\bestbuyinfo\categoriesinfo\CategoriesCRUDTestWithSteps.class
+com\bestbuyapiplayground\model\bestbuyinfo\storesinfo\StoresCRUDTestWithSteps.class

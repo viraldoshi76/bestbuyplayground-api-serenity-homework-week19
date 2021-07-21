@@ -1,0 +1,12 @@
+com\bestbuyapiplayground\model\constants\EndPoints.class
+com\bestbuyapiplayground\model\model\ServicesPojo.class
+com\bestbuyapiplayground\model\utils\PropertyReader.class
+com\bestbuyapiplayground\model\bestbuyinfo\ProductsSteps.class
+com\bestbuyapiplayground\model\bestbuyinfo\ServicesSteps.class
+com\bestbuyapiplayground\model\bestbuyinfo\CategoriesSteps.class
+com\bestbuyapiplayground\model\model\StoresPojo.class
+com\bestbuyapiplayground\model\constants\Path.class
+com\bestbuyapiplayground\model\utils\TestUtils.class
+com\bestbuyapiplayground\model\model\CategoriesPojo.class
+com\bestbuyapiplayground\model\bestbuyinfo\StoresSteps.class
+com\bestbuyapiplayground\model\model\ProductsPojo.class
